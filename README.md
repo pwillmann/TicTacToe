@@ -12,6 +12,13 @@ Own designs have been added to the [`/design`](https://github.com/pwillmann/TicT
 VectorDrawableAnimations were created with the amazing [Shapeshifter](https://shapeshifter.design/) tool
 by Alex Lockwood.
 
+## Design vs Implementation
+
+<p align="center">
+  <img src="/design/main.png" width="350"/>
+  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+</p>
+
 
 ## Versions
 

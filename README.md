@@ -15,8 +15,8 @@ by Alex Lockwood.
 ## Design vs Implementation
 
 <p align="center">
-  <img src="/design/main.png" width="350"/>
-  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+  <img src="/design/Main.png" width="350"/>
+  <img src="/design/Main_screenshot.png" width="350"/>
 </p>
 
 

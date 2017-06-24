@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UdemyTicTacToe</string>
+
+    <string name="toolbar.action.restart">Restart Game</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="md_spacing_1">8dp</dimen>
+    <dimen name="md_spacing_2">16dp</dimen>
+    <dimen name="md_spacing_3">24dp</dimen>
+    <dimen name="md_spacing_4">32dp</dimen>
+    <dimen name="md_spacing_5">40dp</dimen>
+    <dimen name="md_spacing_6">48dp</dimen>
+    <dimen name="md_spacing_7">56dp</dimen>
+    <dimen name="md_spacing_8">64dp</dimen>
+    <dimen name="md_spacing_9">72dp</dimen>
+    <dimen name="md_spacing_10">80dp</dimen>
+
+    <dimen name="board_divider_width">6dp</dimen>
+</resources>

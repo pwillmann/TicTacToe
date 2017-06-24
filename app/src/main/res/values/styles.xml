@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red_orange</item>
+        <item name="colorPrimaryDark">@color/red_wine</item>
+        <item name="colorAccent">@color/purple</item>
+
+        <item name="android:statusBarColor">@color/red_wine</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+
+    <style name="Toolbar" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+
+    <style name="Field">
+        <item name="android:layout_width">@dimen/md_spacing_10</item>
+        <item name="android:layout_height">@dimen/md_spacing_10</item>
+        <item name="android:padding">@dimen/md_spacing_2</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/white_transparent</item>
+    </style>
+
+    <style name="Divider.Vertical">
+        <item name="android:layout_width">@dimen/board_divider_width</item>
+    </style>
+
+    <style name="Divider.Horizontal">
+        <item name="android:layout_height">@dimen/board_divider_width</item>
+    </style>
+
+
+</resources>
